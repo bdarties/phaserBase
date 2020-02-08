@@ -1,2 +1,0 @@
-# phaserBase
-Created with CodeSandbox
